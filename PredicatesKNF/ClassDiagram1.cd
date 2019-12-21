@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PredicatesKNF.formula" Collapsed="true">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>formulaTree.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PredicatesKNF.operand" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>formulaTree.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PredicatesKNF.predicate" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>formulaTree.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PredicatesKNF.operatorLogic" Collapsed="true">
+    <Position X="8.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>formulaTree.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PredicatesKNF.unary" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>formulaTree.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PredicatesKNF.neg" Collapsed="true">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>formulaTree.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PredicatesKNF.binary" Collapsed="true">
+    <Position X="7.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>formulaTree.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PredicatesKNF.implication" Collapsed="true">
+    <Position X="9.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>formulaTree.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PredicatesKNF.disjunkt" Collapsed="true">
+    <Position X="5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>formulaTree.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PredicatesKNF.konjunkt" Collapsed="true">
+    <Position X="7.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>formulaTree.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PredicatesKNF.quantor" Collapsed="true">
+    <Position X="13" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>formulaTree.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PredicatesKNF.forall" Collapsed="true">
+    <Position X="14" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>formulaTree.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PredicatesKNF.exists" Collapsed="true">
+    <Position X="11.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>formulaTree.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PredicatesKNF.formulaTree">
+    <Position X="15.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABCAAAAgAAAEAAAAwBAAMAAAgAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>formulaTree.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
